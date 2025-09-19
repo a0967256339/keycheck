@@ -1,8 +1,16 @@
 {
-    "device_id": "5a1c7e7a-3c2d-4bba-9f2a-1f2e11aa9d55",
-    "license_key": "ninhpro1",
-    "status": "active",
-    "activated_at": "2025-09-19T03:15:00Z",
-    "expires_at": "2026-09-19T00:00:00Z",
-    "note": "CF Tools GUI v13.x"
+  "users": [
+    {
+      "key": "ninhpro1",
+      "device": "e7e1aa4e-eb06-4e19-836a-1d691d69ba363",
+      "username": "Nguyen Tuan Ninh",
+      "expires": "2026-12-31"
+    },
+    {
+      "key": "demo123",
+      "device": "LAPTOP-XYZ456",
+      "username": "User Demo",
+      "expires": "2024-12-31"
+    }
+  ]
 }
