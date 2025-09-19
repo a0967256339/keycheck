@@ -1,3 +1,10 @@
-[
-     {"users":"ninh", "devices":"e7e1aa4e-eb06-4e19-836a-1d691d69ba363", "key":"ninhpro1", "expires":"2030-12-31"}
-   ]
+{
+  "users": [
+    {
+      "key": "ninhpro1",
+      "device": "e7e1aa4e-eb06-4e19-836a-1d691d69ba363",
+      "username": "ninh",
+      "expires": "2030-12-31"
+    }
+  ]
+}
