@@ -1,12 +1,18 @@
 [
   {
-    "users": "ninh",
+    "users": "ninh-mayphu",
     "devices": "e7e1aa4e-eb06-4e19-836a-1d691d69ba363",
     "key": "ninhpro1",
-    "expires": "2030-12-31"
+    "expires": "2099-12-31"
   },
   {
-    "users": "ninh2",
+    "users": "ninh-maychinh",
+    "devices": "871c4fb8-4ad8-4808-b273-00e912b8960e",
+    "key": "ninhpro2",
+    "expires": "2099-06-30"
+  }
+    {
+    "users": "ninh-maychinh",
     "devices": "871c4fb8-4ad8-4808-b273-00e912b8960e",
     "key": "ninhpro2",
     "expires": "2031-06-30"
