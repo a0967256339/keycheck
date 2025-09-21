@@ -1,0 +1,14 @@
+[
+  {
+    "machine_guid": "4c4a1f52-xxxx-xxxx-xxxx-5b6d7e8f9abc",
+    "name": "TPC",
+    "expires": "2030-12-31",               // hoặc "2030-12-31T23:59:59Z" (UTC)
+    "pass": "plain:ninhpro1"               // hoặc "sha256:<hex64>"
+  },
+  {
+    "machine_guid": "ANOTHER-GUID",
+    "name": "OtherUser",
+    "expires": "2029-01-01T00:00:00Z",
+    "pass": "sha256:5e884898da28047151d0e56f8dc62927..."  // ví dụ SHA256("password")
+  }
+]
