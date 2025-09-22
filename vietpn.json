@@ -1,14 +1,7 @@
 [
   {
     "machine_guid": "e7e1aa4e-eb06-4e19-836a-1d691d69ba36",
-    "name": "mayphu",
-    "expires": "2030-12-31",
-    "pass": "plain:ninhpro1"
-  },
-  {
-    "machine_guid": "ANOTHER-GUID",
-    "name": "OtherUser",
-    "expires": "2029-01-01T00:00:00Z",
-    "pass": "sha256:5e884898da28047151d0e56f8dc62927..."
+    "key": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "expires": "2030-12-31T23:59:59Z"
   }
 ]
