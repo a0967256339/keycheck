@@ -22,5 +22,15 @@
     "devices": "4841845F-DB1C-ACC2-2F51-FBD815322E69",
     "key": "mayao3",
     "expires": "2029-12-12"
+} {
+    "users": "mayao-2",
+    "devices": "CFADBEA0-375C-4797-C069-D2DA097EFD5F",
+    "key": "mayao2",
+    "expires": "2029-12-12"
+} {
+    "users": "mayao-1",
+    "devices": "1D3DBC34-9D65-481A-19F6-4AD23FFA33FC",
+    "key": "mayao1",
+    "expires": "2029-12-12"
 }
 ]
