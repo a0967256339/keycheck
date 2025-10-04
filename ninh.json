@@ -45,4 +45,16 @@
     "key": "phamhonglac662497",
     "expires": "2029-12-12"
 }
+  {
+    "users": "0948627629",
+    "devices": "dcf81be5-3fdc-44d1-b033-3ac956dce98f",
+    "key": "hungtam@000102",
+    "expires": "2029-12-12"
+}
+  {
+    "users": "1",
+    "devices": "1",
+    "key": "1",
+    "expires": "2029-12-12"
+}
 ]
