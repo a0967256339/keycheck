@@ -2,65 +2,78 @@
   {
     "users": "ninh-mayphu",
     "devices": "e7e1aa4e-eb06-4e19-836a-1d691d69ba36",
-    "key": "ninhpro1",
+    "key": "ninhpro2",
     "expires": "2099-12-31"
+    "note": "Máy phụ của Ninh"
   },
   {
     "users": "ninh-maychinh",
     "devices": "871c4fb8-4ad8-4808-b273-00e912b8960e",
-    "key": "ninhpro2",
+    "key": "ninhpro1",
     "expires": "2029-06-30"
-  }
-    {
+    "note": "Máy phụ của Ninh"
+  },
+  {
     "users": "minhkhai",
     "devices": "a80f9982-e89f-4d86-a16b-e6b160bf233d",
     "key": "minhkhai",
     "expires": "2025-12-12"
-  }
- {
+    "note": "minh khai"
+  },
+  {
     "users": "mayao-3",
     "devices": "4841845F-DB1C-ACC2-2F51-FBD815322E69",
     "key": "mayao3",
     "expires": "2029-12-12"
-} {
+    "note": "Máy ao của Ninh"
+  },
+  {
     "users": "mayao-2",
     "devices": "1D3DBC34-9D65-481A-19F6-4AD23FFA33FC",
     "key": "mayao2",
     "expires": "2029-12-12"
-} {
+    "note": "Máy ao của Ninh"
+  },
+  {
     "users": "mayao-1",
     "devices": "CFADBEA0-375C-4797-C069-D2DA097EFD5F",
     "key": "mayao1",
     "expires": "2029-12-12"
-}
+    "note": "Máy ảo của Ninh"
+  },
   {
     "users": "huonghanam",
     "devices": "788990de-1171-496d-b602-d7b109b12714",
     "key": "huong1",
     "expires": "2027-12-12"
-}
+    "note": "a hướng già"
+  },
   {
     "users": "0966559909",
     "devices": "851f3b02-c159-4335-a6ac-0d34ceb4981b",
     "key": "phamhonglac662497",
     "expires": "2029-12-12"
-}
+    "note": "Bét Lớp Một-0966559909- đã mua mod"
+  },
   {
     "users": "0948627629",
     "devices": "dcf81be5-3fdc-44d1-b033-3ac956dce98f",
     "key": "hungtam@000102",
     "expires": "2029-12-12"
-}
+    "note": "Hồ Duy Hùng -  0948627629 đã mua mod"
+  },
   {
     "users": "0906052893",
     "devices": "fdf71594-e064-41f4-a528-17e79ac7cdfc",
     "key": "duong94kt",
     "expires": "2029-12-12"
-}
+    "note": "Dương ̲clud -0906052893- đã mua mod"
+  },
   {
     "users": "huynh",
     "devices": "05c09fd2-90f5-4304-bc7c-974dfb479afb",
     "key": "lehuynh",
     "expires": "2029-12-12"
-}
+    "note": "huynh"
+  },
 ]
