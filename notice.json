@@ -1,7 +1,7 @@
 {
   "maintenance": true,
-  "title": "Bảo trì hệ thống ExitLag",
-  "message": "Hệ thống đang được bảo trì. Vui lòng thử lại sau.",
+  "title": "⚠️Bảo trì hệ thống ExitLag",
+  "message": "⚠️Hệ thống đang được bảo trì. Vui lòng thử lại sau.",
   "update_required": true,
   "update_link": "https://google.com/",
   "force_close": true
