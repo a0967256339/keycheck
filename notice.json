@@ -1,7 +1,7 @@
 {
-  "maintenance": true,
+  "maintenance": false,
   "message": "Hệ thống đang được bảo trì. Vui lòng thử lại sau.",
-  "update_required": true,
+  "update_required": false,
   "update_link": "https://github.com/",
   "force_close": true
 }
