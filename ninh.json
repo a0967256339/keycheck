@@ -42,32 +42,32 @@
     "note": "Máy ảo của Ninh"
   },
   {
-    "users": "huonghanam",
+    "users": "1",
     "devices": "788990de-1171-496d-b602-d7b109b12714",
     "key": "huong1",
     "expires": "2027-12-12"
-    "note": "a hướng già"
+    "note": "huong"
   },
   {
     "users": "0966559909",
     "devices": "851f3b02-c159-4335-a6ac-0d34ceb4981b",
     "key": "phamhonglac662497",
     "expires": "2029-12-12"
-    "note": "Bét Lớp Một-0966559909- đã mua mod"
+    "note": "belopmot- đã mua mod"
   },
   {
     "users": "0948627629",
     "devices": "dcf81be5-3fdc-44d1-b033-3ac956dce98f",
     "key": "hungtam@000102",
     "expires": "2029-12-12"
-    "note": "Hồ Duy Hùng -  0948627629 đã mua mod"
+    "note": "hoduyhung đã mua mod"
   },
   {
     "users": "0906052893",
     "devices": "fdf71594-e064-41f4-a528-17e79ac7cdfc",
     "key": "duong94kt",
     "expires": "2029-12-12"
-    "note": "Dương ̲clud -0906052893- đã mua mod"
+    "note": "Dương ̲clud - đã mua mod"
   },
   {
     "users": "huynh",
@@ -88,6 +88,6 @@
     "devices": "5cb26887-be54-4781-bc6a-b113a47085f5",
     "key": "dinhquang2828",
     "expires": "2029-12-12"
-    "note": "tiến nhỏ nợ 2m"
+    "note": "tn nợ 2m"
   },
 ]
