@@ -3,112 +3,112 @@
     "users": "ninh-mayphu",
     "devices": "e7e1aa4e-eb06-4e19-836a-1d691d69ba36",
     "key": "ninhpro2",
-    "expires": "2099-12-31"
+    "expires": "2099-12-31",
     "note": "Máy phụ của Ninh"
   },
   {
     "users": "ninh-maychinh",
     "devices": "871c4fb8-4ad8-4808-b273-00e912b8960e",
     "key": "ninhpro1",
-    "expires": "2029-06-30"
-    "note": "Máy phụ của Ninh"
+    "expires": "2029-06-30",
+    "note": "Máy chính của Ninh"
   },
   {
     "users": "minhkhai",
     "devices": "a80f9982-e89f-4d86-a16b-e6b160bf233d",
     "key": "minhkhai",
-    "expires": "2025-12-12"
-    "note": "minh khai"
+    "expires": "2025-12-12",
+    "note": "Minh Khai"
   },
   {
     "users": "mayao-3",
-    "devices": "--4841845F-DB1C-ACC2-2F51-FBD815322E69",
+    "devices": "4841845F-DB1C-ACC2-2F51-FBD815322E69",
     "key": "mayao3",
-    "expires": "2029-12-12"
-    "note": "Máy ao của Ninh"
+    "expires": "2029-12-12",
+    "note": "Máy ảo của Ninh"
   },
   {
     "users": "mayao-2",
     "devices": "1D3DBC34-9D65-481A-19F6-4AD23FFA33FC",
     "key": "mayao2",
-    "expires": "2029-12-12"
-    "note": "Máy ao của Ninh"
+    "expires": "2029-12-12",
+    "note": "Máy ảo của Ninh"
   },
   {
     "users": "mayao-1",
     "devices": "CFADBEA0-375C-4797-C069-D2DA097EFD5F",
     "key": "mayao",
-    "expires": "2039-12-12"
+    "expires": "2039-12-12",
     "note": "Máy ảo của Ninh"
   },
   {
     "users": "huong1",
     "devices": "788990de-1171-496d-b602-d7b109b12714",
     "key": "huong1",
-    "expires": "2027-12-12"
-    "note": "huong"
+    "expires": "2027-12-12",
+    "note": "Huong"
   },
   {
     "users": "0966559909",
     "devices": "851f3b02-c159-4335-a6ac-0d34ceb4981b",
     "key": "phamhonglac662497",
-    "expires": "2029-12-12"
-    "note": "belopmot- đã mua mod"
+    "expires": "2029-12-12",
+    "note": "belopmot - đã mua mod"
   },
   {
     "users": "0948627629",
     "devices": "dcf81be5-3fdc-44d1-b033-3ac956dce98f",
     "key": "hungtam@000102",
-    "expires": "2029-12-12"
-    "note": "hoduyhung đã mua mod"
+    "expires": "2029-12-12",
+    "note": "hoduyhung - đã mua mod"
   },
   {
     "users": "0906052893",
     "devices": "fdf71594-e064-41f4-a528-17e79ac7cdfc",
     "key": "duong94kt",
-    "expires": "2029-12-12"
-    "note": "Dương ̲clud - đã mua mod"
+    "expires": "2029-12-12",
+    "note": "Dương clud - đã mua mod"
   },
   {
     "users": "huynh",
     "devices": "9593f74c-d3e6-4556-897b-334be491b11c",
     "key": "lehuynh",
-    "expires": "2029-12-12"
+    "expires": "2029-12-12",
     "note": "mayaohuynh"
   },
-    {
+  {
     "users": "Thoaiho",
     "devices": "ccf39184-4063-4d44-9cd8-c7846050593b",
     "key": "08686555",
-    "expires": "2029-12-12"
+    "expires": "2029-12-12",
     "note": "Thoaiho"
   },
-{
+  {
     "users": "RongRong",
     "devices": "5cb26887-be54-4781-bc6a-b113a47085f5",
     "key": "dinhquang2828",
-    "expires": "2029-12-12"
+    "expires": "2029-12-12",
     "note": "tn nợ 2m"
   },
-{
+  {
     "users": "huong2",
     "devices": "a0e496ad-15c7-43d9-8de0-e98120c63122",
     "key": "huong2",
-    "expires": "2029-12-12"
+    "expires": "2029-12-12",
     "note": "huong"
   },
   {
     "users": "baothien",
     "devices": "3c4f1ac9-ebe8-429f-885f-9ac5e804f3e9",
     "key": "113113",
-    "expires": "2029-12-12"
+    "expires": "2029-12-12",
     "note": "baothien"
   },
-{
+  {
     "users": "gau",
     "devices": "D2BECA58-DD77-BB6E-3120-F2B884D445C1",
     "key": "gau1",
-    "expires": "2029-12-12"
+    "expires": "2029-12-12",
     "note": "gau"
-  },
+  }
 ]
