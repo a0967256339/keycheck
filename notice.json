@@ -4,5 +4,5 @@
   "message": "⚠️Hệ thống đang được bảo trì. Vui lòng thử lại sau.",
   "update_required": false,
   "update_link": "",
-  "force_close": true,
+  "force_close": false,
 }
