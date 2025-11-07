@@ -45,7 +45,7 @@
     "key": "mayao1",
     "expires": "2039-12-12",
     "note": "Máy ảo của Ninh"
-    "vip": "false"
+    "vip": "true"
   },
   {
     "users": "huong1",
@@ -133,6 +133,7 @@
     "key": "hungtam102",
     "expires": "2029-12-12",
     "note": "hoduyhung - phu"
+    "vip": "false"
 }
   
 ]
