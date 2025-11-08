@@ -53,7 +53,7 @@
     "key": "huong1",
     "expires": "2027-12-12",
     "note": "Huong"
-    "vip": "false"
+    "vip": "true"
   },
   {
     "users": "0966559909",
@@ -85,7 +85,7 @@
     "key": "lehuynh",
     "expires": "2029-12-12",
     "note": "mayaohuynh"
-    "vip": "false"
+    "vip": "true"
   },
   {
     "users": "Thoaiho",
@@ -109,7 +109,7 @@
     "key": "huong2",
     "expires": "2029-12-12",
     "note": "huong"
-    "vip": "false"
+    "vip": "true"
   },
   {
     "users": "baothien",
