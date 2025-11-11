@@ -5,7 +5,7 @@
     "key": "ninhpro2",
     "expires": "2099-12-31",
     "note": "Máy phụ của Ninh"
-    "vip": "false"
+    "vip": "true"
   },
   {
     "users": "ninh-maychinh",
@@ -13,7 +13,7 @@
     "key": "ninhpro1",
     "expires": "2029-06-30",
     "note": "Máy chính của Ninh"
-    "vip": "false"
+    "vip": "true"
   },
   {
     "users": "minhkhai",
@@ -29,7 +29,7 @@
     "key": "mayao3",
     "expires": "2029-12-12",
     "note": "Máy ảo của Ninh"
-    "vip": "false"
+    "vip": "true"
   },
   {
     "users": "mayao-2",
@@ -37,7 +37,7 @@
     "key": "mayao2",
     "expires": "2029-12-12",
     "note": "Máy ảo của Ninh"
-    "vip": "false"
+    "vip": "true"
   },
   {
     "users": "mayao-1",
