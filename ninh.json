@@ -32,13 +32,13 @@
     "vip": "true"
   },
   {
-    "users": "mayao-2",
-    "devices": "A3DBFF57957463386A8F5DC0C306E51F09B037289F271780850A6FFFEE6AB988",
+    "user": "mayao-2",
+    "device": "A3DBFF57957463386A8F5DC0C306E51F09B037289F271780850A6FFFEE6AB988",
     "key": "mayao2",
     "expires": "2029-12-12",
-    "note": "Máy ảo của Ninh"
-    "vip": "true"
-  },
+    "note": "Máy ảo của Ninh",
+    "vip": true
+  }
   {
     "users": "mayao-1",
     "devices": "CFADBEA0-375C-4797-C069-D2DA097EFD5F",
