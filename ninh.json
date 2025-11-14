@@ -37,7 +37,7 @@
     "key": "mayao2",
     "expires": "2029-12-12",
     "note": "Máy ảo của Ninh",
-    "vip": "true"
+    "vip": true
   }
   {
     "users": "mayao-1",
