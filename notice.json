@@ -1,7 +1,7 @@
 {
   "maintenance": true,
   "title": "Bảo trì hệ thống ExitLag",
-  "message": "Hệ thống đang được bảo trì. Vui lòng thử lại sau.",
+  "message": "Hệ thống đang được bảo trì. Khi nào xong mình sẽ thông báo , vui lòng không  (giục , spam) sẽ bị block .",
   "update_required": true,
   "update_link": "https://sf-static.upanhlaylink.com/img/image_20251111491d3d898047340f87845d941dad3ec0.jpg",
   "force_close": true,
