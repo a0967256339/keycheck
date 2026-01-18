@@ -38,7 +38,7 @@
     "expires": "2029-12-12",
     "note": "Máy ảo của Ninh",
     "vip": "true"
-  }
+  },
   {
     "users": "mayao-1",
     "device": "F761D0A1EE011C4FCD0692A3F0B6E812329BF9CE7952530F61A5601861F1BDBF",
@@ -126,7 +126,7 @@
     "expires": "2029-12-12",
     "note": "gau-mayao1"
     "vip": "true"
-  }
+  },
   {
     "users": "0948627629-1",
     "device": "684840C5A13F99A0E2B4ED0DAFF0C1D79F2DCE8AE2A523E3D7964C820AFAAB26",
@@ -134,7 +134,7 @@
     "expires": "2029-12-12",
     "note": "hoduyhung - phu"
     "vip": "false"
-}
+},
 {
     "users": "huong3",
     "device": "3B652CF91385420767B451A1025F0059F13AB83B3A9166AB88E2D501065C9AD9",
@@ -142,7 +142,7 @@
     "expires": "2029-12-12",
     "note": "huong3"
     "vip": "true"
-}
+},
 {
     "users": "gau2",
     "device": "69750DBF7EDC17E52F9FF65E2589B3E0074C872514AB2023137D43367CA2051A",
@@ -150,7 +150,7 @@
     "expires": "2029-12-12",
     "note": "gau2-mayao"
     "vip": "true"
-}
+},
 {
     "users": "gau3",
     "device": "6753B9D87727E26131925AB0A99846583EECEE2F4F69C5D87D018F314B70086B",
@@ -158,7 +158,7 @@
     "expires": "2029-12-12",
     "note": "gau3-mayao"
     "vip": "true"
-} 
+},
 {
     "users": "dinhquang220",
     "device": "1C1315E73DC89CFF885538AF7344D56359326322374B3317E7A080430906D655",
@@ -166,7 +166,7 @@
     "expires": "2029-12-12",
     "note": "rongrong may ao"
     "vip": "true"
-} 
+}, 
 {
     "users": "gau4",
     "device": "69750DBF7EDC17E52F9FF65E2589B3E0074C872514AB2023137D43367CA2051A",
@@ -174,7 +174,7 @@
     "expires": "2029-12-12",
     "note": "gau3 may ao"
     "vip": "true"
-}
+},
 {
     "users": "Lucas",
     "device": "97C47CC44344A954F2FEE243DDBBAAB51AC250F4A2E06666EA2625F96BAF1D67",
@@ -182,7 +182,7 @@
     "expires": "2029-12-12",
     "note": "lucas"
     "vip": "true"
-}
+},
 {
     "users": "huong4",
     "device": "9532E5F09B00F15945D671A5E3FECB1F9182079C5C6EFD736141912A3A2A9D7E",
@@ -190,7 +190,7 @@
     "expires": "2029-12-12",
     "note": "huong4"
     "vip": "true"
-}
+},
 {
     "users": "BaoThien-MayPhu",
     "device": "F00C07B29EBBD4256FC4719CBB1B5ABCB5F75CA092F554072A9469B35381E7B6",
@@ -198,7 +198,7 @@
     "expires": "2029-12-12",
     "note": "BaoThien-MayPhu"
     "vip": "true"
-}
+},
 {
     "users": "gau5",
     "device": "7FEA17AD7672D2FB25A53868DE6A45EB47BC3D20CBEBB4342398868FF21C0F4A",
