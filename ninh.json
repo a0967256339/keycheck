@@ -127,7 +127,7 @@
     "note": "gau-mayao1"
     "vip": "true"
   }
-{
+  {
     "users": "0948627629-1",
     "device": "684840C5A13F99A0E2B4ED0DAFF0C1D79F2DCE8AE2A523E3D7964C820AFAAB26",
     "key": "hungtam102",
@@ -135,7 +135,7 @@
     "note": "hoduyhung - phu"
     "vip": "false"
 }
-  {
+{
     "users": "huong3",
     "device": "3B652CF91385420767B451A1025F0059F13AB83B3A9166AB88E2D501065C9AD9",
     "key": "huong3",
@@ -143,14 +143,14 @@
     "note": "huong3"
     "vip": "true"
 }
-    {
+{
     "users": "gau2",
     "device": "69750DBF7EDC17E52F9FF65E2589B3E0074C872514AB2023137D43367CA2051A",
     "key": "gau2",
     "expires": "2029-12-12",
     "note": "gau2-mayao"
     "vip": "true"
-  }
+}
 {
     "users": "gau3",
     "device": "6753B9D87727E26131925AB0A99846583EECEE2F4F69C5D87D018F314B70086B",
@@ -159,7 +159,7 @@
     "note": "gau3-mayao"
     "vip": "true"
 } 
-  {
+{
     "users": "dinhquang220",
     "device": "1C1315E73DC89CFF885538AF7344D56359326322374B3317E7A080430906D655",
     "key": "dinhquang220",
@@ -167,7 +167,7 @@
     "note": "rongrong may ao"
     "vip": "true"
 } 
-    {
+{
     "users": "gau3",
     "device": "69750DBF7EDC17E52F9FF65E2589B3E0074C872514AB2023137D43367CA2051A",
     "key": "gau3",
