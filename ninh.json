@@ -121,11 +121,11 @@
   },
   {
     "users": "gau",
-    "devices": "D2BECA58-DD77-BB6E-3120-F2B884D445C1",
-    "key": "gau12",
+    "device": "C790463F8B4EDC6E7FE3D513984447379204CC79FFA9221075BA7DEFA53CFCB2",
+    "key": "gau1",
     "expires": "2029-12-12",
-    "note": "gau"
-    "vip": "false"
+    "note": "gau-mayao1"
+    "vip": "true"
   }
 {
     "users": "0948627629-1",
@@ -145,18 +145,18 @@
 }
     {
     "users": "gau2",
-    "devices": "6cb01223-6560-46f3-a1a9-7586e70dc908",
+    "device": "69750DBF7EDC17E52F9FF65E2589B3E0074C872514AB2023137D43367CA2051A",
     "key": "gau2",
     "expires": "2029-12-12",
-    "note": "gau2"
+    "note": "gau2-mayao"
     "vip": "true"
   }
 {
-    "users": "gau1",
-    "device": "364526F8EA62873C5C51012877D28DE5BC8D6CEFB3E21EB39EF2FD62B853C441",
-    "key": "gau1",
+    "users": "gau3",
+    "device": "6753B9D87727E26131925AB0A99846583EECEE2F4F69C5D87D018F314B70086B",
+    "key": "gau3",
     "expires": "2029-12-12",
-    "note": "gau1"
+    "note": "gau3-mayao"
     "vip": "true"
 } 
   {
@@ -197,6 +197,14 @@
     "key": "115115",
     "expires": "2029-12-12",
     "note": "BaoThien-MayPhu"
+    "vip": "true"
+}
+{
+    "users": "gau4",
+    "device": "7FEA17AD7672D2FB25A53868DE6A45EB47BC3D20CBEBB4342398868FF21C0F4A",
+    "key": "gau4",
+    "expires": "2029-12-12",
+    "note": "gau4-Mayao"
     "vip": "true"
 }
 ]
