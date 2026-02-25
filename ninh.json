@@ -1,210 +1,354 @@
 [
-  {
-    "users": "ninh-mayphu",
-    "device": "BA2B5AE9C29C2C5A30E36C8F7064AE8294A8CA17B038B3A572BA79A981513F84",
-    "key": "ninhpro2",
-    "expires": "2099-12-31",
-    "note": "Máy phụ của Ninh"
-    "vip": "true"
-  },
-  {
-    "users": "ninh-maychinh",
-    "devices": "871c4fb8-4ad8-4808-b273-00e912b8960e",
-    "key": "ninhpro1",
-    "expires": "2029-06-30",
-    "note": "Máy chính của Ninh"
-    "vip": "true"
-  },
-  {
-    "users": "minhkhai",
-    "devices": "a80f9982-e89f-4d86-a16b-e6b160bf233d",
-    "key": "minhkhai",
-    "expires": "2026-12-12",
-    "note": "Minh Khai"
-    "vip": "false"
-  },
-  {
-    "users": "mayao-3",
-    "device": "A0D798C5BAF8C75CDCE440055A05F5EA987DF728C9686BE18C7EDF787D91C226",
-    "key": "mayao3",
-    "expires": "2029-12-12",
-    "note": "Máy ảo của Ninh"
-    "vip": "true"
-  },
-  {
-    "user": "mayao-2",
-    "device": "D92425812BE89DB30E79FE2CE466E3FEE6CF33729661CC86645485262ECB8CD4",
-    "key": "mayao2",
-    "expires": "2029-12-12",
-    "note": "Máy ảo của Ninh",
-    "vip": "true"
-  },
-  {
-    "users": "mayao-1",
-    "device": "F761D0A1EE011C4FCD0692A3F0B6E812329BF9CE7952530F61A5601861F1BDBF",
-    "key": "mayao1",
-    "expires": "2039-12-12",
-    "note": "Máy ảo của Ninh"
-    "vip": "true"
-  },
-  {
-    "users": "huong1",
-    "device": "186E18F709CB8119E83C514C7C941713F7B671F8D40CCEBAEF1330D8872E620E",
-    "key": "huong1",
-    "expires": "2027-12-12",
-    "note": "Huong"
-    "vip": "true"
-  },
-  {
-    "users": "0966559909",
-    "device": "AD7840931AA67CA96CE74D2B82E3A9F52557D36FD2E020760B01D4187B69722B",
-    "key": "phamhonglac662497",
-    "expires": "2029-12-12",
-    "note": "belopmot - đã mua mod"
-    "vip": "false"
-  },
-  {
-    "users": "0948627629",
-    "device": "4B2611AC678C2CFBEC707DBF7CB29C87ECDC286382A1A69D2F1ED8B080F0A738",
-    "key": "hungtam@000102",
-    "expires": "2029-12-12",
-    "note": "hoduyhung - đã mua mod"
-    "vip": "false"
-  },
-  {
-    "users": "0906052893",
-    "device": "915C8381EF74A1E6C52D4763194FA7D86E075694BC93EA9FDE3A2A68CD3423AB",
-    "key": "duong94kt",
-    "expires": "2029-12-12",
-    "note": "Dương clud - đã mua mod"
-    "vip": "false"
-  },
-  {
-    "users": "huynh",
-    "device": "BD58DF490583E487E3CFBA30B8D629A2D9E09B12246F2679B68F31DE3798BC1E",
-    "key": "lehuynh",
-    "expires": "2029-12-12",
-    "note": "mayaohuynh"
-    "vip": "true"
-  },
-  {
-    "users": "Thoaiho",
-    "device": "8CEE1FAAC6F97A50AAB46D69C065F361B5F4E46AD0676FA1094B2817838ACB30",
-    "key": "08686555",
-    "expires": "2029-12-12",
-    "note": "Thoaiho"
-    "vip": "true"
-  },
-  {
-    "users": "RongRong",
-    "device": "B05CDAE27AA7EABF7385ECED4AAF727763A7E71C155737D0EF6AD7CA056DCCC5",
-    "key": "dinhquang2828",
-    "expires": "2029-12-12",
-    "note": "tn nợ 2m"
-    "vip": "true"
-  },
-  {
-    "users": "huong2",
-    "device": "B6FD01F79F42639C22452B5F70738A14EE0CB765BAF3D4DE8C508AE1B4084FDC",
-    "key": "huong2",
-    "expires": "2029-12-12",
-    "note": "huong"
-    "vip": "true"
-  },
-  {
-    "users": "baothien",
-    "device": "78347F179887890049F2C47AD547344960D03A8F7CF865B37153A907C018D1D6",
-    "key": "113113",
-    "expires": "2029-12-12",
-    "note": "baothien"
-    "vip": "true"
-  },
-  {
-    "users": "gau1",
-    "device": "C790463F8B4EDC6E7FE3D513984447379204CC79FFA9221075BA7DEFA53CFCB2",
-    "key": "gau1",
-    "expires": "2029-12-12",
-    "note": "gau-mayao1"
-    "vip": "true"
-  },
-  {
-    "users": "0948627629-1",
-    "device": "684840C5A13F99A0E2B4ED0DAFF0C1D79F2DCE8AE2A523E3D7964C820AFAAB26",
-    "key": "hungtam102",
-    "expires": "2029-12-12",
-    "note": "hoduyhung - phu"
-    "vip": "false"
-},
-{
-    "users": "huong3",
-    "device": "3B652CF91385420767B451A1025F0059F13AB83B3A9166AB88E2D501065C9AD9",
-    "key": "huong3",
-    "expires": "2029-12-12",
-    "note": "huong3"
-    "vip": "true"
-},
-{
-    "users": "gau2",
-    "device": "69750DBF7EDC17E52F9FF65E2589B3E0074C872514AB2023137D43367CA2051A",
-    "key": "gau2",
-    "expires": "2029-12-12",
-    "note": "gau2-mayao"
-    "vip": "true"
-},
-{
-    "users": "gau3",
-    "device": "6753B9D87727E26131925AB0A99846583EECEE2F4F69C5D87D018F314B70086B",
-    "key": "gau3",
-    "expires": "2029-12-12",
-    "note": "gau3-mayao"
-    "vip": "true"
-},
-{
-    "users": "dinhquang220",
-    "device": "1C1315E73DC89CFF885538AF7344D56359326322374B3317E7A080430906D655",
-    "key": "dinhquang220",
-    "expires": "2029-12-12",
-    "note": "rongrong may ao"
-    "vip": "true"
-}, 
-{
-    "users": "gau4",
-    "device": "69750DBF7EDC17E52F9FF65E2589B3E0074C872514AB2023137D43367CA2051A",
-    "key": "gau3",
-    "expires": "2029-12-12",
-    "note": "gau3 may ao"
-    "vip": "true"
-},
-{
-    "users": "Lucas",
-    "device": "97C47CC44344A954F2FEE243DDBBAAB51AC250F4A2E06666EA2625F96BAF1D67",
-    "key": "12042019",
-    "expires": "2029-12-12",
-    "note": "lucas"
-    "vip": "true"
-},
-{
-    "users": "huong4",
-    "device": "9532E5F09B00F15945D671A5E3FECB1F9182079C5C6EFD736141912A3A2A9D7E",
-    "key": "huong4",
-    "expires": "2029-12-12",
-    "note": "huong4"
-    "vip": "true"
-},
-{
-    "users": "BaoThien-MayPhu",
-    "device": "F00C07B29EBBD4256FC4719CBB1B5ABCB5F75CA092F554072A9469B35381E7B6",
-    "key": "115115",
-    "expires": "2029-12-12",
-    "note": "BaoThien-MayPhu"
-    "vip": "true"
-},
-{
-    "users": "gau5",
-    "device": "7FEA17AD7672D2FB25A53868DE6A45EB47BC3D20CBEBB4342398868FF21C0F4A",
-    "key": "gau4",
-    "expires": "2029-12-12",
-    "note": "gau4-Mayao"
-    "vip": "true"
-}
+    {
+        "users": "ninh-mayphu",
+        "device": "BA2B5AE9C29C2C5A30E36C8F7064AE8294A8CA17B038B3A572BA79A981513F84",
+        "key": "ninhpro2",
+        "expires": "9999-vĩnh-viễn",
+        "note": "Máy phụ của Ninh",
+        "vip": "true"
+    },
+    {
+        "users": "ninh-maychinh",
+        "device": "81B6B8D409AA2A7225D85E10341CD65580BEA87BE1BDC6625FD72E7F3BC523F5",
+        "key": "ninhpro1",
+        "expires": "9999-vĩnh-viễn",
+        "note": "Máy chính của Ninh",
+        "vip": "true"
+    },
+    {
+        "users": "minhkhai",
+        "device": "9338857761E21A5E007637AE323C4177A4D2FE4639206C96A68FDEDE23E3928C",
+        "key": "minhkhai",
+        "expires": "2026-12-12",
+        "note": "Minh Khai",
+        "vip": "false"
+    },
+    {
+        "user": "mayao-2",
+        "device": "377468EC9EA03ED3274CB609C9214DCF4DD62F001A42D29321BD6C4E0B6B161F",
+        "key": "mayao2",
+        "expires": "9999-vĩnh-viễn",
+        "note": "Máy ảo của Ninh",
+        "vip": "true",
+        "users": "mayao2"
+    },
+    {
+        "users": "mayao-1",
+        "device": "F761D0A1EE011C4FCD0692A3F0B6E812329BF9CE7952530F61A5601861F1BDBF",
+        "key": "mayao1",
+        "expires": "9999-vĩnh-viễn",
+        "note": "Máy ảo của Ninh",
+        "vip": "true"
+    },
+    {
+        "users": "huong1",
+        "device": "186E18F709CB8119E83C514C7C941713F7B671F8D40CCEBAEF1330D8872E620E",
+        "key": "huong1",
+        "expires": "9999-vĩnh-viễn",
+        "note": "Huong",
+        "vip": "true"
+    },
+    {
+        "users": "0966559909",
+        "device": "AD7840931AA67CA96CE74D2B82E3A9F52557D36FD2E020760B01D4187B69722B",
+        "key": "phamhonglac662497",
+        "expires": "9999-vĩnh-viễn",
+        "note": "belopmot - đã mua mod",
+        "vip": "false"
+    },
+    {
+        "users": "0948627629",
+        "device": "4B2611AC678C2CFBEC707DBF7CB29C87ECDC286382A1A69D2F1ED8B080F0A738",
+        "key": "hungtam@000102",
+        "expires": "9999-vĩnh-viễn",
+        "note": "hoduyhung - đã mua mod",
+        "vip": "false"
+    },
+    {
+        "users": "0906052893",
+        "device": "915C8381EF74A1E6C52D4763194FA7D86E075694BC93EA9FDE3A2A68CD3423AB",
+        "key": "duong94kt",
+        "expires": "9999-vĩnh-viễn",
+        "note": "Dương clud - đã mua mod",
+        "vip": "false"
+    },
+    {
+        "users": "Thoaiho",
+        "device": "8CEE1FAAC6F97A50AAB46D69C065F361B5F4E46AD0676FA1094B2817838ACB30",
+        "key": "08686555",
+        "expires": "9999-vĩnh-viễn",
+        "note": "Thoaiho",
+        "vip": "true"
+    },
+    {
+        "users": "RongRong",
+        "device": "B05CDAE27AA7EABF7385ECED4AAF727763A7E71C155737D0EF6AD7CA056DCCC5",
+        "key": "dinhquang2828",
+        "expires": "9999-vĩnh-viễn",
+        "note": "tn nợ 2m",
+        "vip": "true"
+    },
+    {
+        "users": "huong2",
+        "device": "B6FD01F79F42639C22452B5F70738A14EE0CB765BAF3D4DE8C508AE1B4084FDC",
+        "key": "huong2",
+        "expires": "9999-vĩnh-viễn",
+        "note": "huong",
+        "vip": "true"
+    },
+    {
+        "users": "baothien",
+        "device": "78347F179887890049F2C47AD547344960D03A8F7CF865B37153A907C018D1D6",
+        "key": "113113",
+        "expires": "9999-vĩnh-viễn",
+        "note": "baothien",
+        "vip": "true"
+    },
+    {
+        "users": "gau1",
+        "device": "C790463F8B4EDC6E7FE3D513984447379204CC79FFA9221075BA7DEFA53CFCB2",
+        "key": "gau1",
+        "expires": "9999-vĩnh-viễn",
+        "note": "gau-mayao1",
+        "vip": "true"
+    },
+    {
+        "users": "0948627629-1",
+        "device": "684840C5A13F99A0E2B4ED0DAFF0C1D79F2DCE8AE2A523E3D7964C820AFAAB26",
+        "key": "hungtam102",
+        "expires": "9999-vĩnh-viễn",
+        "note": "hoduyhung - phu",
+        "vip": "false"
+    },
+    {
+        "users": "huong3",
+        "device": "3B652CF91385420767B451A1025F0059F13AB83B3A9166AB88E2D501065C9AD9",
+        "key": "huong3",
+        "expires": "9999-vĩnh-viễn",
+        "note": "huong3",
+        "vip": "true"
+    },
+    {
+        "users": "gau2",
+        "device": "69750DBF7EDC17E52F9FF65E2589B3E0074C872514AB2023137D43367CA2051A",
+        "key": "gau2",
+        "expires": "9999-vĩnh-viễn",
+        "note": "gau2-mayao",
+        "vip": "true"
+    },
+    {
+        "users": "gau3",
+        "device": "6753B9D87727E26131925AB0A99846583EECEE2F4F69C5D87D018F314B70086B",
+        "key": "gau3",
+        "expires": "9999-vĩnh-viễn",
+        "note": "gau3-mayao",
+        "vip": "true"
+    },
+    {
+        "users": "dinhquang220",
+        "device": "1C1315E73DC89CFF885538AF7344D56359326322374B3317E7A080430906D655",
+        "key": "dinhquang220",
+        "expires": "9999-vĩnh-viễn",
+        "note": "rongrong may ao",
+        "vip": "true"
+    },
+    {
+        "users": "gau6",
+        "device": "69750DBF7EDC17E52F9FF65E2589B3E0074C872514AB2023137D43367CA2051A",
+        "key": "gau63",
+        "expires": "9999-vĩnh-viễn",
+        "note": "gau6 may ao",
+        "vip": "true"
+    },
+    {
+        "users": "Lucas",
+        "device": "97C47CC44344A954F2FEE243DDBBAAB51AC250F4A2E06666EA2625F96BAF1D67",
+        "key": "12042019",
+        "expires": "9999-vĩnh-viễn",
+        "note": "lucas",
+        "vip": "true"
+    },
+    {
+        "users": "huong4",
+        "device": "9532E5F09B00F15945D671A5E3FECB1F9182079C5C6EFD736141912A3A2A9D7E",
+        "key": "huong4",
+        "expires": "9999-vĩnh-viễn",
+        "note": "huong4",
+        "vip": "true"
+    },
+    {
+        "users": "BaoThien-MayPhu",
+        "device": "F00C07B29EBBD4256FC4719CBB1B5ABCB5F75CA092F554072A9469B35381E7B6",
+        "key": "115115",
+        "expires": "9999-vĩnh-viễn",
+        "note": "BaoThien-MayPhu",
+        "vip": "true"
+    },
+    {
+        "users": "gau4",
+        "device": "7FEA17AD7672D2FB25A53868DE6A45EB47BC3D20CBEBB4342398868FF21C0F4A",
+        "key": "gau4",
+        "expires": "9999-vĩnh-viễn",
+        "note": "gau4-Mayao",
+        "vip": "true"
+    },
+    {
+        "users": "AnhThong",
+        "device": "493BEA115A68100FE6270A2FBB82A34999B724D911F969716D1DB33A917CDF00",
+        "key": "6789",
+        "expires": "9999-vĩnh-viễn",
+        "note": "AnhThong",
+        "vip": "true"
+    },
+    {
+        "users": "gau5",
+        "device": "1592EAA5780A2A41198F643F4743A6EB4697FCFBB782AA5B39E147F661FA9C5F",
+        "key": "gau5",
+        "expires": "9999-vĩnh-viễn",
+        "note": "gau5-Mayao",
+        "vip": "true"
+    },
+    {
+        "users": "phuc",
+        "device": "E179D476D94D865CCC82B6F60AEE99F01644BCFF6C810DE0EC19B0DDCC49EFA0",
+        "key": "phuc",
+        "expires": "9999-vĩnh-viễn",
+        "note": "AnhPhuc",
+        "vip": "false"
+    },
+    {
+        "users": "Quý",
+        "device": "401D7B7131C6678B739310FADF6B6F186A924E4D667889E1119A3ECF39ADB4D6",
+        "key": "220320",
+        "expires": "9999-vĩnh-viễn",
+        "note": "https:\/\/www.facebook.com\/quy.huynhngoc.315080.hovantan.dvfb",
+        "vip": "true",
+        "owner": "baothien"
+    },
+    {
+        "users": "Văn Nhượng",
+        "device": "441130B8207B21746483FC08099F9837CE4EA091DDE3C0F9B7EFDFDDF1AACC5A",
+        "key": "kn123456",
+        "expires": "9999-vĩnh-viễn",
+        "note": "https:\/\/www.facebook.com\/share\/1GQWsyRovP\/ - 0387154698",
+        "vip": "true",
+        "owner": "baothien"
+    },
+    {
+        "users": "Ngọc Trường",
+        "device": "352EFFF53B3DB5CE231696BD14B2AA988B974514523BBB742733E8DE50BAE3D8",
+        "key": "686868",
+        "expires": "9999-vĩnh-viễn",
+        "note": "https:\/\/www.facebook.com\/share\/1DFYu5bvt2\/?mibextid=wwXIfr",
+        "vip": "true",
+        "owner": "baothien"
+    },
+    {
+        "users": "Lê Hữu Lợi",
+        "device": "C1C98B46EC6D8B0B2B4EDA55D6944B373B0782C1FE056BC43078BC6C04E33F31",
+        "key": "Heocoi9x",
+        "expires": "9999-vĩnh-viễn",
+        "note": "ßm¬Ïtåçhï».« https:\/\/www.facebook.com\/master.l.huu.loi\/?locale=vi_VN",
+        "vip": "true",
+        "owner": "baothien"
+    },
+    {
+        "users": "º×º·HùñG·º×º",
+        "device": "2AB6938534951F09EBC3949DC395ABB859CC00CE2AD57285EB01FE6CE78E8133",
+        "key": "hunghaha",
+        "expires": "9999-vĩnh-viễn",
+        "note": "º×º·HùñG·º×º",
+        "vip": "true",
+        "owner": "baothien"
+    },
+    {
+        "users": "CY-Vũ.anh",
+        "device": "9B3428505FBF008C83BDD04C0FA6EED02AAB16E393BBA5831682843AB4D8B58B",
+        "key": "Bin2310",
+        "expires": "9999-vĩnh-viễn",
+        "note": "- CY-Vũ.anh - https:\/\/www.facebook.com\/share\/17sPQNNhgH\/?mibextid=wwXIfr - 0848480123",
+        "vip": "true",
+        "owner": "baothien"
+    },
+    {
+        "users": "LOZ",
+        "device": "D9365C4AA52A8827661DFAA1BF94E1FD2967509F3C832B7B996E702BBCD050C9",
+        "key": "lehuynh",
+        "expires": "9999-vĩnh-viễn",
+        "note": "ÁD",
+        "vip": "true",
+        "owner": "admin"
+    },
+    {
+        "users": "Bún Bò Huế",
+        "device": "12E54A94D39F1DA0B66D63D93B4CEAEDCDA8D84046E7B8CA4902E070C76E2AC0",
+        "key": "Bunbohue",
+        "expires": "9999-vĩnh-viễn",
+        "note": "muahoacai-https:\/\/www.facebook.com\/share\/1AKsaFFSVb\/?mibextid=wwXIfr",
+        "vip": "true",
+        "owner": "admin"
+    },
+    {
+        "users": "Test-Laptop",
+        "device": "649803D45F5AA84F4C464574EC6AF4463D64B99FD02A44C4FE1F867DF9FF82EC",
+        "key": "test",
+        "expires": "9999-vĩnh-viễn",
+        "note": "",
+        "vip": "true",
+        "owner": "admin"
+    },
+    {
+        "users": "Đức Dương - Laptop",
+        "device": "AE04521D618FB5699664EF9178B10A02B20939F650466A0F893B46237EAB9189",
+        "key": "21041411",
+        "expires": "9999-vĩnh-viễn",
+        "note": "0386 259 951",
+        "vip": "true",
+        "owner": "wang"
+    },
+    {
+        "users": "Æ²¶¬¶¬Dµÿ43 - Nguyễn Hoàng Duy",
+        "device": "7B37FDD09FAFA84AAE60B750A1C25383DCD5AA611D502C030BA363D9927FC9A1",
+        "key": "kuduytm2",
+        "expires": "9999-vĩnh-viễn",
+        "note": "https:\/\/www.facebook.com\/nguyen.hoang.duy.909152 0778773200",
+        "vip": "true",
+        "owner": "wang"
+    },
+    {
+        "users": "Hà Đạt Tuấn",
+        "device": "131A5E6C042ECBE96268EDD0D6410D34F87AB473627D91B02D8FD6BEA5BF93DD",
+        "key": "Tuancoi94",
+        "expires": "9999-vĩnh-viễn",
+        "note": "https:\/\/www.facebook.com\/share\/1CE3tehECo\/?mibextid=wwXIfr",
+        "vip": "true",
+        "owner": "wang"
+    },
+    {
+        "users": "Æ²¶¬¶¬Su",
+        "device": "0B98A9525F34F78463B21F36744894AF9C27AD34467DEA2D4B43B58908279734",
+        "key": "aehhdz",
+        "expires": "9999-vĩnh-viễn",
+        "note": "0964658880-https:\/\/www.facebook.com\/share\/1DJvPXE8RZ\/?mibextid=wwXIfr",
+        "vip": "true",
+        "owner": "wang"
+    },
+    {
+        "users": "Văn Nhượng -2",
+        "device": "E4151E1BE6988055F6C01464CEE3FA8C0A1510F3D7C4EC624C9246138E8DE644",
+        "key": "kl123456",
+        "expires": "9999-vĩnh-viễn",
+        "note": "https:\/\/www.facebook.com\/share\/1GQWsyRovP\/ - 0387154698",
+        "vip": "true",
+        "owner": "baothien"
+    },
+    {
+        "users": "Minh Trần",
+        "device": "08649A65A695BB44A8A2D9E36EFE4842B897159EAA942AF55F321586D6EFAA25",
+        "key": "minhtran090",
+        "expires": "9999-vĩnh-viễn",
+        "note": "https:\/\/www.facebook.com\/Yang.Minh1211#",
+        "vip": "true",
+        "owner": "baothien"
+    }
 ]
